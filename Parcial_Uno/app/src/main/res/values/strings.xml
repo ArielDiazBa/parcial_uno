@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Parcial_Uno</string>
+    <string-array name="opciones">
+        <item>Productos excentos de iva</item>
+        <item>Productos no excentos de iva</item>
+        <item>10 productos mas caros</item>
+        <item>10 productos menos caros</item>
+        <item>promedio del valor de los productos</item>
+    </string-array>
+    <string-array name="excento">
+        <item>Productos excentos de iva</item>
+        <item>Productos no excentos de iva</item>
+        <item>10 productos mas caros</item>
+        <item>10 productos menos caros</item>
+        <item>promedio del valor de los productos</item>
+    </string-array>
+</resources>
